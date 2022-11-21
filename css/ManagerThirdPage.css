@@ -1,0 +1,63 @@
+.ManagerThirdPage {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 0;
+    min-height: 100%;
+}
+
+#ManagerThirdPage #ManagerThirdSize {
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    border: 1px solid #D9D9D9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    background-color: #fcfcfcee;
+    padding: 15px;
+}
+
+/*textDiv*/
+.ManagerThirdPage .ManagerThirdSize .textDiv {
+    width: 100%;
+    height: 30px;
+    margin: auto;
+}
+
+.ManagerThirdPage .ManagerThirdSize .textDiv span {
+    border-bottom: 1.5px #cccccc solid;
+}
+.ManagerThirdPage .ManagerThirdSize .textDiv button{
+    height: 100%;
+    width: auto;
+    border-bottom: 1.5px #5d5d5d solid;
+}
+.ManagerThirdPage .ManagerThirdSize .textDiv p{
+    font-size: 13px;
+}
+/*span*/
+.ManagerThirdPage .ManagerThirdSize .state{
+    width: 95%;
+    color: #B80000	;
+    font-weight: 600;
+    margin: 5px auto;
+    text-align: left;
+}
+/*buttonDiv*/
+.ManagerThirdPage .ManagerThirdSize .buttonDiv{
+    width: 100%;
+    height: auto;
+    margin: 20px 0 0 0;
+    padding: 10px auto;
+}
+.ManagerThirdPage .ManagerThirdSize .buttonDiv button{
+    padding: 10px 12px;
+    margin: 0 5px;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #aab4b8;
+    text-align: center;
+    font-weight: 500;
+}
+.ManagerThirdPage .ManagerThirdSize .buttonDiv button:hover{
+    background-color: #607178;
+}
