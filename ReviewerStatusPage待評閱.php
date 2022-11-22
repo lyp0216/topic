@@ -3,8 +3,7 @@
 
 <?php
                            
-                        
-					
+
                             require_once("cfg.php");
                             require_once("sqlLink.php");
        
